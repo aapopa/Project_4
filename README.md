@@ -14,3 +14,6 @@ The predictive model indicates that businesses can leverage customer attributes 
 
 
 https://www.kaggle.com/datasets/rabieelkharoua/predict-customer-purchase-behavior-dataset/data.
+
+Link to PowerPoint/Visualizations:
+https://docs.google.com/presentation/d/1XG2OAX9YYntooxdoQPU2VrMwmBRurXXUZhefmsOfs1E/edit?usp=sharing
